@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Amlan Anupam</h1>
-<h3 align="center">A passionate Mern Stack developer</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 
